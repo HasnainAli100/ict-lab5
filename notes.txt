@@ -1,2 +1,3 @@
 Git is a tool used by programmers to track changes in codes and files overtime
 Summary: Git ensures data interity and seamless teamwork.
+summary: git ensures data integrity and seamless teamwork
